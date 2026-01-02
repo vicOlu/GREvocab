@@ -49,6 +49,3 @@ open index.html
 - LocalStorage for data persistence
 - Google Identity Services for authentication
 
-## License
-
-MIT License
